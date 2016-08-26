@@ -1,0 +1,7 @@
+.DS_Store
+assets/scss/.sass-cache/*
+assests/images/*
+node_modules/
+bower_components/
+npm-debug.log
+screenshot.png
